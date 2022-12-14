@@ -1,0 +1,36 @@
+selenium basics:
+1. it is web testing frame work.
+
+features:
+1.open source
+2.it supports scripting in 10 different languages
+3.it seamlesly integrates with popular web development tools like microsoft visual studio, apache maven, jenkins , garils etc.
+
+practical experince with APPLICATION UNDER TEST WITH EDU BANK DEMO APPLICATION.
+
+SELENIUM WEBDRIVER:
+CAN AUTOMATE TESTING  IN ALL BROWSERS
+2.A SINGLE FLOW TEST CAN BE CODED AND RUN ITERATIVELY FOR EACH DATA SET CAN BE SEQUENTIALLY READ FROM A DATABASE OR A FILE.
+HENCE THERE IS ONLY ONE TEST SCRIPT TO MAINTAIN.
+3.MODULAR SUBROUTINES CAN BE PROGRAMMED. HENCE IF THERE IS A CHANGE IN ONE SCREEN, ONLY THE IMPACTED SUBROUTINE HAVE TO ANAIYZED
+AND CHANGED.
+4.CUCUMBER, JIRA: TO enable test case management
+JENKINS: to enable continuous testing.
+
+Doing tasks using selenium:
+1.create a simple automation script.
+   A:CONFIGURE language binding.
+   B:configure unit testing framework
+   C.automate actions on browser using web driver interface.
+   D. locators in selenium.
+   E.automate actions on web page using web element interface.
+   F.automate validation of expected results using assertions.
+
+2.automate simple interactions.
+3.automate complex interactions.
+4.enhance automation scripts.
+5.create a test suite.
+
+
+
+junit: to use junit jar files have to be downloaded.
